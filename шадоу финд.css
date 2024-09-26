@@ -1,0 +1,17 @@
+.main {
+    width: 85%;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 50%;
+}
+.main2 {
+    background-color: rgb(255, 0, 0);
+    padding: 66px 44px;
+}
+.gau {
+    border: 44px solid #4d213e;
+}
